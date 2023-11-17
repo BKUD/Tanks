@@ -7,6 +7,7 @@ public enum Direction {
     private int vy;
 
     private float angle;
+
     public int getVx() {
         return vx;
     }
